@@ -1,4 +1,4 @@
-# Forensic Audit & Predictive Pricing Strategy for Health Insurance Funds
+# Forensic Audit for Health Insurance Funds
 
 This project focuses on conducting forensic audits to detect misappropriation within health insurance funds and developing a predictive pricing strategy. The goal was to ensure compliance while also improving customer conversion rates by 20% and enhancing revenue forecasting accuracy for new policies.
 
